@@ -58,8 +58,7 @@ I added an aria-label to help identify the input form.
 
 #### Show Comment Button
 
-It already works to highlight it and press enter on the button in the first place, so I just added a tabIndex to it.
-Would be easier to test this if the button actually worked.
+It already works to highlight it, so I just added a tabIndex to it which allowed me to be able to hit enter and use the button.
 
 #### Table
 
